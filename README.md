@@ -31,8 +31,5 @@ Language-specific issues (Python, JavaScript)
 Installation
 
 Ensure you have Python 3.x installed on your system
-Clone this repository:
-git clone https://github.com/yourusername/bugfinder.git
-cd bugfinder
 
 No additional dependencies required - the tool uses only Python standard libraries
